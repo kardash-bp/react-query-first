@@ -2,8 +2,12 @@
 
 ![Screenshot](rq.png)
 
-## Available Scripts
+- npm init -y
+- npm install
+- .env REACT_APP_BASE_URL=http://localhost:4000
+- npm run dev
 
-In the project directory, you can run:
+## Reusable
 
-### `npm start`
+- AxiosInstance
+- styled-components global style
