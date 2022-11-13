@@ -27,6 +27,7 @@ const Wrapper = styled.section`
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   }
   button {
+    margin-top: 1rem;
     border: none;
     border-radius: 0.25rem;
     padding: 0.75rem 1rem;
@@ -86,7 +87,7 @@ const Wrapper = styled.section`
     opacity: 0.5;
   }
   form {
-    margin: 0 auto;
+    margin: 1rem auto;
     background-color: var(--palette-blue);
     display: flex;
     flex-wrap: wrap;
